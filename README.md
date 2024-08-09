@@ -19,5 +19,5 @@ Automatically works with the VEX VSCode Extension and VexCode Pro, works with PR
 
 These files need to be included in order for the following classes / libs to work
 * Odometry
-  * "<vector>"
+  * /<vector/>
   * "<chrono>"
