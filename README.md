@@ -21,3 +21,5 @@ These files need to be included in order for the following classes / libs to wor
 * Odometry:
   * \<vector\>
   * \<chrono\>
+
+In the VSCode Extension and Vexcode Pro, I put these files in the "vex.h" header file
